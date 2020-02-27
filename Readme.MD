@@ -4,4 +4,4 @@
 
 This repository is for storing my customised adlists.list file which consolidates all wally3k adlists.
 
-![pihole](https://imgur.com/ZuuafwU) 
+![pihole](https://imgur.com/ZuuafwU)
