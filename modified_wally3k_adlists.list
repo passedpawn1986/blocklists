@@ -107,10 +107,10 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/host
 #http://v.firebog.net/hosts/Airelle-hrsk.txt
 ##
 # ✔ Disconnect Malvertising
-#https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 ##
 # ✔ DNS-BH Malware
-#http://mirror1.malwaredomains.com/files/justdomains
+http://mirror1.malwaredomains.com/files/justdomains
 ##
 # ✔ hpHosts Exploit
 #https://hosts-file.net/exp.txt
@@ -122,7 +122,7 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/host
 #https://hosts-file.net/psh.txt
 ##
 # ✔ 'Immortal' Malware Domains
-#https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
+https://mirror.cedia.org.ec/malwaredomains/immortal_domains.txt
 ##
 # ✔ Malware Domain List
 https://www.malwaredomainlist.com/hostslist/hosts.txt
@@ -137,7 +137,7 @@ https://www.malwaredomainlist.com/hostslist/hosts.txt
 #https://raw.githubusercontent.com/quidsup/notrack/master/malicious-sites.txt
 ##
 # ✔ Ransomware Tracker
-#https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
+https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
 ##
 # Shalla Malicious
 #http://v.firebog.net/hosts/Shalla-mal.txt
